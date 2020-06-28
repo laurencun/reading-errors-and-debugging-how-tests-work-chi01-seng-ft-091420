@@ -1,3 +1,3 @@
 # Add your variables here
-x = 12
+first_number = 12
 
